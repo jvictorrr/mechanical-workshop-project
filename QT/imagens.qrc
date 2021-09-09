@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Desktop/1.png</file>
+        <file>../../Desktop/2.png</file>
+        <file>../../Downloads/Tp.jpg</file>
+        <file>../../Desktop/tp atendente.jpg</file>
+        <file>../../Desktop/tp gerente.jpg</file>
+        <file>../../Desktop/layouts/Inicial atendente.jpg</file>
+        <file>../../Desktop/layouts/Inicial geral.jpg</file>
+        <file>../../Desktop/layouts/Inicial gerente.jpg</file>
+        <file>../../Desktop/layouts/op 1 - atendente.jpg</file>
+        <file>../../Desktop/layouts/op 1 - gerente.jpg</file>
+        <file>../../Desktop/layouts/op 1.2 - atendente.jpg</file>
+        <file>../../Desktop/layouts/op 1.2 - gerente.jpg</file>
+        <file>../../Desktop/layouts/Atendentes cadastrados 2.jpg</file>
+        <file>../../Desktop/layouts/Atendentes cadastrados.jpg</file>
+        <file>../../Desktop/layouts/Clientes cadastrados 2.jpg</file>
+        <file>../../Desktop/layouts/Clientes cadastrados.jpg</file>
+        <file>../../Desktop/Diagnostico Rápido.jpg</file>
+        <file>../../Desktop/Estoque.jpg</file>
+        <file>../../Desktop/diag.jpg</file>
+        <file>../../Desktop/Atendentes cadastrados novo.jpg</file>
+        <file>../../Desktop/Clientes cadastrados novo.jpg</file>
+        <file>../../Desktop/Diagnostico Rápido possiveis problemas.jpg</file>
+        <file>../../Desktop/Estoque  novo.jpg</file>
+        <file>../../Desktop/vvv.jpg</file>
+        <file>../../Desktop/piu.jpg</file>
+    </qresource>
+</RCC>
